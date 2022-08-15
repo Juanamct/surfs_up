@@ -1,6 +1,6 @@
 # surfs_up
 
-## Purpose: To determine if a surf and ice cream shop business is viable year-round.  Business partner has requested Oahu temperature data for the months of June and December.
+## Purpose: Determine if a surf and ice cream shop business is viable year-round on the island of Oahu.  Business partner has requested Oahu temperature data for the months of June and December.
 
 ## Key weather differences between June & December:
 
@@ -8,8 +8,8 @@
         ### - December's Minimum temperature is a nice but chilly 60 degrees in contrast to June's Minimum temperature of 71 degrees
         ### - June's Average daily temperature is 77 degrees and December's Average is 71 degrees
     
-    http://localhost:8888/view/Dec_Temps.png
-    http://localhost:8888/view/June_Temps.png
+ ![June_Temps](https://user-images.githubusercontent.com/107228424/184720124-247601a0-72bf-472a-b0f7-6b1ee3d90c7e.png)
+ ![Dec_Temps](https://user-images.githubusercontent.com/107228424/184720165-7c8df6aa-c848-4ce3-b559-ebe86e8bba14.png)
 
 ## Summary:
 
