@@ -16,5 +16,5 @@
         ### - The difference in temperature between June, not surprisingly is warmer than December but not by much.
         ### - The temperatures to surf for both month's support surfing demand with June being more desirable for ice cream.
         ### - Two additional data points to consider:
-	###   * The observed number of occurrence of precipitation each month
-	###   * The average wind velocity each month
+		###   * The observed number of occurrence of precipitation each month
+		###   * The average wind velocity each month
